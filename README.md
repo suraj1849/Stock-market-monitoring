@@ -7,7 +7,7 @@ Smartfolio is a full stack web-based stock portfolio manager application. Functi
 
 its performance. The application is a personal project with the intent to develop my skills using React and other backend technologies. 
 
-👉 <a href="https://react-smartfolio.netlify.app/" target="_blank">Demo</a>
+
 
 ## Architecture & Technologies
 
